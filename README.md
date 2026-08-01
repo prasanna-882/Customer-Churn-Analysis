@@ -147,7 +147,9 @@ Power_BI/exports/churn_dashboard_images/home.png
 
 ### 🗂 Pages Overview
 - **Home** — Overview and navigation
-<img width="1390" height="779" alt="Home" src="https://github.com/user-attachments/assets/26afdddf-5150-4ee6-b17b-f9d4293444a9" />
+<img width="1390" height="779" alt="Home" src="https://github.com/prasanna-882/Customer-Churn-Analysis/blob/6b649c5aae85fffd1b42128c8fda4d640f4c3a43/Power_BI/exports/churn_dashboard_images/home.png" />
+
+https://github.com/prasanna-882/Customer-Churn-Analysis/blob/6b649c5aae85fffd1b42128c8fda4d640f4c3a43/Power_BI/exports/churn_dashboard_images/home.png
   
 - **Executive Summary** — Top-level KPIs
 <img width="1386" height="777" alt="Executive Overview" src="https://github.com/user-attachments/assets/9115558b-a358-4cdf-b1bb-81854a3fc813" />
